@@ -1,11 +1,11 @@
 SplineFontDB: 3.2
-FontName: MakiSans
-FullName: Maki-Sans
+FontName: MakiSans-Regular
+FullName: Maki-Sans Regular
 FamilyName: Maki-Sans
 Weight: Regular
 Copyright: Copyright (c) 2023, FEERUS23
 UComments: "2023-4-27: Created with FontForge (http://fontforge.org)"
-Version: 2.100
+Version: 2.120
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1682542807
-ModificationTime: 1682551895
+ModificationTime: 1682646309
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,7 +47,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 150
-WinInfo: 0 38 14
+WinInfo: 0 20 6
 BeginPrivate: 0
 EndPrivate
 BeginChars: 328 164
